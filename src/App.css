@@ -75,7 +75,11 @@ button:hover {
 }
 
 @media (max-width: 600px) {
+
+ 
+
   .container {
+    margin: 5rem;
     width: 350px;
     height: 400px;
     display: flex;
