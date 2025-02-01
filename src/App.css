@@ -24,8 +24,8 @@ h1 {
 
 .container {
   background-color: #ffffff; /* fundo claro e neutro */
-  height: 500px;
-  width: 450px;
+  height: 600px;
+  width: 400px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* sombra suave para destacar */
   border-radius: 8px; /* bordas levemente arredondadas */
 }
@@ -69,9 +69,11 @@ button:hover {
 
 
 .weather-container p {
+  margin-top: 2rem;;
   text-align: center;
   font-size: 2rem;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 0 2rem;
 }
 
 @media (max-width: 600px) {

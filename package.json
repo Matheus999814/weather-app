@@ -1,12 +1,12 @@
 {
   "name": "weather_app",
-  "homepage": "https://matheus999814.github.io/weather-app/",
+  "homepage": "https://matheus999814.github.io/weather_app/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+  "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
