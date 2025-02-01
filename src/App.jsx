@@ -25,12 +25,9 @@ function App() {
       }
       
       const res = await axios.get(`https://wttr.in/${local}?format=%C+%t+%w
-
         
 `);
-
 console.log(res);
-
 
 
 setPrevisao(res.data);
@@ -74,9 +71,7 @@ setLoading(false);
 
 export default App
 
-//[] imagens
-//[] importar
-//[] criar a funcionalidade
+
 
 // [x] estruturar a pesquisa
 // [] estilizar
