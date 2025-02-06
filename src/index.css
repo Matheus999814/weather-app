@@ -22,3 +22,13 @@ h1 {
   font-weight: bold;
   padding: 1rem;
 }
+
+
+@media (max-width: 584px) {
+  h1 {
+       margin: 1rem auto;
+      font-size: 2rem;
+  }
+
+ 
+}

@@ -13,6 +13,7 @@ function App() {
       <div>
         <Navbar/>
         <div className="container">
+          
              <Outlet/>
       </div>
       <Footer/>
