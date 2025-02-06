@@ -115,9 +115,9 @@ export default App
 //[x] por mais
 //[x] react router dom inserir aba fazer aba de navegação weather e information
 //[x] estilizar um pouco a home 
-//[] footer
+//[x] footer
 //[] identidade logo do site e add content home e information
-//[] responsividade
+//[x] responsividade
 //[] por no git de novo
 
 
