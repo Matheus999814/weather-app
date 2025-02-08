@@ -4,9 +4,13 @@
     line-height: 2rem;
 }
 
-@media (max-width: 584px) {
+@media (max-width: 332px) {
+  
     .paragraph-container {
-      line-height: 2rem;
-      
+        font-size: 0.8rem;
     }
+  h1 {
+    font-size: 1.6rem;
+  }
+
 }
